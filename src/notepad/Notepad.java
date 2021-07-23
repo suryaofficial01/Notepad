@@ -1,5 +1,5 @@
 
-package notepad2;
+package notepad;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.KeyEvent;

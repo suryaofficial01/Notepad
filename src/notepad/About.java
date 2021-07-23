@@ -1,5 +1,5 @@
 
-package notepad2;
+package notepad;
 
 import java.awt.Font;
 import java.awt.Image;
